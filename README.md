@@ -2,7 +2,7 @@
 A Java program that solves the Knight’s Tour puzzle on an 8×8 chessboard using recursive backtracking and displays the completed move sequence.
 
 
-# Knight’s Tour
+
 
 **Language:** Java
 **Focus:** Recursion, backtracking, two-dimensional arrays, and algorithm design
